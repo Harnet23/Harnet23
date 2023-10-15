@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harnet23
 - 👀 I’m interested in Devops
-- 🌱 I’m currently learning Python, Docker, Jenkins
+- 🌱 I’m currently learning Python, Docker, Jenkins, Ansible
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
